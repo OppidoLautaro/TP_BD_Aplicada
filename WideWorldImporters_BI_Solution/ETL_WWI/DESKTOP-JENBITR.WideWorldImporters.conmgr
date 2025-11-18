@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-JENBITR.WideWorldImporters"
+  DTS:DTSID="{537FAFC2-C1A8-4C28-8BE6-B0C1E0032F98}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-JENBITR;Initial Catalog=WideWorldImporters;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Application Name=SSIS-ETL_WWI-{537FAFC2-C1A8-4C28-8BE6-B0C1E0032F98}DESKTOP-JENBITR.WideWorldImporters;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
