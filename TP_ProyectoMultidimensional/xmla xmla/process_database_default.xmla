@@ -1,0 +1,8 @@
+    <Batch xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <Process>
+    <Object>
+      <DatabaseID>TP_ProyectoMultidimensional</DatabaseID>
+    </Object>
+    <Type>ProcessDefault</Type>
+  </Process>
+</Batch>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-E0AVMNU_SSAS_2019.DW_WideWorldImporters.sa"
+  DTS:DTSID="{9DE028B9-BDBA-41AC-85AB-826CD6C0A61B}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-E0AVMNU\SSAS_2019;User ID=sa;Initial Catalog=DW_WideWorldImporters;Provider=SQLNCLI11.1;Application Name=SSIS-ETL-{9DE028B9-BDBA-41AC-85AB-826CD6C0A61B}DESKTOP-E0AVMNU\SSAS_2019.DW_WideWorldImporters.sa;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAGk26eS0MGkW2zgTYqzc8TAAAAAACAAAAAAAQZgAAAAEAACAAAACAFFGiuec/KLhx6NqbT4XsNqmdds7wkqoJGzQhuLSFOQAAAAAOgAAAAAIAACAAAAB9vZKhPBApWrmLC428rVuXw5H2c90RbAq5yb2DnKoql4AAAAAWiH20X7J7T0KXHfy5vFFlwaIDUgasafnwOLqY/wq6nCubA6HDHE76ZOev26Kj2dfjPmDiGsyIL8GsYyMTiJDd+Ctkm/upTef1RoAjxUw/LfnWqbM9TGLiJR21r3ykaWUhidjyr3lO2ccVsmoW4+WISzza7QOExbETp9qw9UPfBUAAAABkanpWyzSUsfgGvkPdfp92rteumPE8o25ktzkeFtsDqVqfXVxIyrKAVVHok5df3bqcr/utIQhcyt3GMqwsQIhS</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

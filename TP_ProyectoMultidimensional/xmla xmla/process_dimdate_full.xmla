@@ -1,0 +1,9 @@
+    <Batch xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <Process>
+    <Object>
+      <DatabaseID>TP_ProyectoMultidimensional</DatabaseID>
+      <DimensionID>Dim Date</DimensionID>
+    </Object>
+    <Type>ProcessFull</Type>
+  </Process>
+</Batch>
