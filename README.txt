@@ -15,7 +15,7 @@ Tablas Dimensionales:
 - DimCustomer
 - DimEmployee
 - DimDate
-- DimPaymentMethod
+- DimDeliveryMethod
 
 3. Creación de Tablas del DW
 Se configuraron PK con IDENTITY en cada dimensión y FactSales. Se definieron tipos de datos adecuados y FKs correspondientes.
